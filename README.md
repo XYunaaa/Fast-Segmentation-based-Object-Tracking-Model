@@ -12,3 +12,4 @@ Hungary algorithm. This is an example of ID matching based on the tracking vecto
 ![image](https://github.com/XYunaaa/Fast-Segmentation-based-Object-Tracking-Model/blob/master/samples/tracking%20vector/sample1.png)
 
 This is a matching distance matrix of inter-frame ID matching.  
+![image](https://github.com/XYunaaa/Fast-Segmentation-based-Object-Tracking-Model/blob/master/samples/matching_matrix.png)
