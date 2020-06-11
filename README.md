@@ -2,8 +2,8 @@
 
 Demo
 ------
-This is a gif of segmentation and tracking result of our model.If you click the gif,you can get the vedio of result.\
-[![image](https://github.com/XYunaaa/Fast-Segmentation-based-Object-Tracking-Model/blob/master/samples/result.gif)](http://baidu.com)\\\
+This is a gif of segmentation and tracking result of our model.\
+![image](https://github.com/XYunaaa/Fast-Segmentation-based-Object-Tracking-Model/blob/master/samples/result.gif)
 This is an example of 2D tracking result of our model.\
 ![image](https://github.com/XYunaaa/Fast-Segmentation-based-Object-Tracking-Model/blob/master/samples/tracklets/tracklets_0006.png)  
 ![image](https://github.com/XYunaaa/Fast-Segmentation-based-Object-Tracking-Model/blob/master/samples/tracklets/tracklets_0016.png)   
