@@ -3,8 +3,9 @@
 Demo
 ------
 This is a gif of segmentation and tracking result of our model.\
-![image](https://github.com/XYunaaa/Fast-Segmentation-based-Object-Tracking-Model/blob/master/samples/result.gif)
-\This is an example of 2D tracking result of our model.\
+![image](https://github.com/XYunaaa/Fast-Segmentation-based-Object-Tracking-Model/blob/master/samples/result.gif). 
+
+This is an example of 2D tracking result of our model.\
 ![image](https://github.com/XYunaaa/Fast-Segmentation-based-Object-Tracking-Model/blob/master/samples/tracklets/tracklets_0006.png)  
 ![image](https://github.com/XYunaaa/Fast-Segmentation-based-Object-Tracking-Model/blob/master/samples/tracklets/tracklets_0016.png)   
 After segmentation,our model uses the tracking vectors in each frame for matching track IDs with the famous
